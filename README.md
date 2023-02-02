@@ -1,4 +1,5 @@
 Classes: 
+
 	MainActivity
 		This classes purpose is to initalise the home screen and add media to the database
 		It implements onClickListeners to monitor the buttons which allows the user to select other options
