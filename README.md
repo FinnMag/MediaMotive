@@ -37,18 +37,3 @@ Classes:
 		
 		
 Demo Video: https://youtu.be/dG7WgM8y4EA
-
-
-What I would do if i had more time:
-
-First of all I would include a seperate table for the user fields which would contain the data
-relating to the MyList functionality such as the media associated with the user and the users episode count
-rather than storing that information in the media table itself
-
-My original plan for custom images that would be made in the AddCustomMedia class using the Camera API
-was to store the newly created image inside a new directory. I was experiencing problems with permissions and eventually
-ran out of time trying to find a work around. Instead I would have stored the media image in byte code inside the database table
-and would convert it into a Bitmap when needed.
-
-I initalially started the assignment in mind of keeping a static menu on all screens using fractals
-but found it was out of my reach with my time constraints. Given enough time I would have tried to implement this feature.
